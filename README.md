@@ -1,9 +1,9 @@
 # GrahamPAW
-A branch of the MXD build by Valera on the dev1galaxy forums
-A tribute build for my father, hope they have internet and linux up there
+- A branch of the MXD build by Valera on the dev1galaxy forums 
+- A tribute build for my father, hope they have internet and linux up there 
 
 ## The build
-MX + Artix + Devuan repos using KDE Plasma with Dinit
+- MX + Artix + Devuan repos using KDE Plasma with Dinit
 
 <!--
 **GrahamPAW/GrahamPAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
